@@ -1,0 +1,15 @@
+.terraform/
+*.tfstate
+*.tfstate.*
+*.tfstate.backup
+*.tfplan
+crash.log
+crash.*.log
+*.pem
+*.key
+backend.tf
+terraform.tfvars
+dev.tfvars
+qa.tfvars
+Tf-bootstrap/terraform.tfstate
+Tf-bootstrap/terraform.tfstate.*
